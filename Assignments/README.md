@@ -5,3 +5,6 @@ for an assignment will typically contain a `README` file which will contain all 
 
 I'll say more about how you should connect your work to this repository once I have a chance to work through it with
 you in person.
+
+One thing I will say now is that the `README` for the prework assignment is much longer than I will write for any
+other assignment!
